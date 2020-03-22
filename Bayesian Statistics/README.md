@@ -1,1 +1,1 @@
-Analysis and lessons from Bayesian Statistics course by UCSC on coursera
+Analysis Code written and lessons' summary for Bayesian Statistics course by UCSC on coursera
